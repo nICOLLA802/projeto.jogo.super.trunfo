@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "OLA.MUNDO.C": "cpp",
+        "N1_NC4.C": "cpp",
+        "PRIMEIRO.CODIGO.C": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "C_Cpp.default.compilerPath": "C:/msys64/ucrt64/bin/gcc.exe"
+}
